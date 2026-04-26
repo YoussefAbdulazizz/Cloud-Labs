@@ -1,0 +1,2 @@
+Redis stores data quickly.
+etcd is used for distributed systems and leader election.
