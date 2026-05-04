@@ -1,0 +1,4 @@
+Containers are lightweight and start faster than virtual machines .
+They use fewer resources because they share the host OS.
+They response time varies for each req.
+Some req take longer, which shows tail latency.

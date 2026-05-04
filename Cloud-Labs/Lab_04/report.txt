@@ -1,0 +1,7 @@
+We created two microservices: product-service and order-service.
+
+Order-service calls product-service to get product data.
+
+When product-service is stopped, order-service returns a failure response.
+
+This shows service dependency and failure handling.
